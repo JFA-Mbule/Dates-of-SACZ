@@ -1,4 +1,4 @@
-Datas de Oceorrencia dos eventos de ZCAS. Organizados segundo cada padrão.
+Datas de Oceorrencia dos eventos de ZCAS. Organizados segundo cada padrão.{Dates of occurrence of ZCAS events. Organized according to each location pattern. Southernmost PS, Central PC and Northernmost PN} 
 Criado por: Jaime F. António & José Antoni Aravéquia
 Contactos: jaime.fernandes@inpe.br,jaimefernandoantonio.jfa@gmail.com
 GitHob - @JFA-Mbule
